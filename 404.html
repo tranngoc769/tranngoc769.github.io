@@ -25,14 +25,14 @@
 
 	<link rel="shortcut icon" href="images/favicons/favicon.ico">
 
+	<script src="js/jquery.min.js"></script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125314689-9"></script>
 	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-125314689-9');
+	  $(window).load(function () {
+    window.setTimeout(function () {
+        window.location.href = "./index.html";
+    }, 5000)
+});
 	</script>
 
 </head>
@@ -110,14 +110,10 @@
 					<div class="vertical-center">
 						<div class="started-content">
                             <h1 class="h-title">404</h1>
-							<div class="h-title">
-								<div class="h-subtitle typing-bread">
-									<p class="breadcrumbs">
-										<a href="index.html">Home</a>
-									</p>
-								</div>
-								<span class="typed-bread"></span>
-							</div>
+							<h2 style="
+    color: beige;
+    text-align: center;
+">Redirect in 5 seconds </h2>
 						</div>
 					</div>
 				</div>
@@ -160,7 +156,6 @@
 	</div>
 
 	<script src="js/min.scripts.js"></script>
-	<script src="js/demo-bar.js"></script>
 
 </body>
 </html>

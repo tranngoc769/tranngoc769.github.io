@@ -67,13 +67,10 @@ if (isset($_GET["item"])){
                            <a href="index.html">Home</a>
                         </li>
                         <li class="menu-item">
-                           <a href="resume.html">Resume</a>
+                           <a href="/projects">My Projects</a>
                         </li>
                         <li class="menu-item">
-                           <a href="projects.html">My Projects</a>
-                        </li>
-                        <li class="menu-item">
-                           <a href="contact.html">Contact</a>
+                           <a href="/contact">Contact</a>
                         </li>
                      </ul>
                   </div>
@@ -160,10 +157,10 @@ if (isset($_GET["item"])){
                   <span class="icon fab fa-github"></span>
                   </a>
                   <!--  target="_blank" href="https://www.instagram.com/" -->
-                  <a>
+					<a target="_blank" href="https://www.linkedin.com/in/tranngoc769">
                   <span class="icon fab fa-linkedin"></span>
                   </a>
-                  <a target="_blank" href="https://www.facebook.com/messages/t/kingstar7699">
+                  <a target="_blank" href="https://www.facebook.com/messages/t/tranngoc769">
                   <span class="icon fab fa-facebook-messenger"></span>
                   </a>
                </div>

@@ -67,13 +67,10 @@
 									<a href="index.html">Home</a>
 								</li>
 								<li class="menu-item">
-									<a href="resume.html">Resume</a>
+									<a href="/projects">My Projects</a>
 								</li>
 								<li class="menu-item">
-									<a href="projects.html">My Projects</a>
-								</li>
-								<li class="menu-item">
-									<a href="contact.html">Contact</a>
+									<a href="/contact">Contact</a>
 								</li>
 							</ul>
 						</div>
@@ -144,14 +141,6 @@
 								<div class="text"><a href="mailto:steve-pearson@gmail.com">tnquang.7699@gmail.com</a></div>
 							</div>
 						</div>
-
-						<div class="service-col">
-							<div class="service-item content-box">
-								<div class="icon"><span class="fas fa-map-marker-alt"></span></div>
-								<div class="name">Address</div>
-								<div class="text">275/75/133 Quang Trung, Go Vap, HCMC</div>
-							</div>
-						</div>
 					</div>
 
 					<div class="clear"></div>
@@ -173,10 +162,10 @@
 						<span class="icon fab fa-github"></span>
                     </a>
                     <!--  target="_blank" href="https://www.instagram.com/" -->
-					<a>
+					<a target="_blank" href="https://www.linkedin.com/in/tranngoc769">
 						<span class="icon fab fa-linkedin"></span>
 					</a>
-					<a target="_blank" href="https://www.facebook.com/messages/t/kingstar7699">
+					<a target="_blank" href="https://www.facebook.com/messages/t/tranngoc769">
 						<span class="icon fab fa-facebook-messenger"></span>
 					</a>
 				</div>

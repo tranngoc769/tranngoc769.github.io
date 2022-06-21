@@ -3,7 +3,9 @@ RewriteEngine on
 #Lỗi không tồn tại
 ErrorDocument 404 /view/error/error.php
 #view
-RewriteRule ^project$ /porfolio.php [L]
+RewriteRule ^projects$ /porfolio.php [L]
+RewriteRule ^channel$ /channel.php [L]
+RewriteRule ^contact$ /contact.php [L]
 <Files 403.shtml>
 order allow,deny
 allow from all

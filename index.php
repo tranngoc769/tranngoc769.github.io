@@ -58,9 +58,9 @@
 
 				<!-- logo -->
 				<div class="logo hover-masks-logo">
-					<a href="https://tranngoc769.github.io/CV.pdf">
-						<span class="mask-lnk">Tran Ngoc <strong>Quang</strong></span>
-						<span class="mask-lnk mask-lnk-hover">Download <strong>CV</strong></span>
+					<a href="#">
+						<span class="mask-lnk">Download <strong>CV</strong></span>
+						<span class="mask-lnk mask-lnk-hover">Tran Ngoc Quang <strong>CV</strong></span>
 					</a>
 				</div>
 				
@@ -82,15 +82,7 @@
 									</ul> -->
 								</li>
 								<li class="menu-item">
-									<a href="resume.html">Resume</a>
-									<!-- <ul class="sub-menu">
-										<li class="menu-item"><a href="resume.html">Resume Default</a></li>
-										<li class="menu-item"><a href="resume_image.html">Resume Image</a></li>
-										<li class="menu-item"><a href="resume_creative.html">Resume Creative</a></li>
-									</ul> -->
-								</li>
-								<li class="menu-item">
-									<a href="projects.html">My Projects</a>
+									<a href="/projects">My Projects</a>
 									<!-- <ul class="sub-menu">
 										<li class="menu-item"><a href="works.html">Works Default</a></li>
 										<li class="menu-item"><a href="works_creative.html">Works Creative</a></li>
@@ -100,7 +92,7 @@
 									</ul> -->
 								</li>
 								<li class="menu-item">
-									<a href="contact.html">Contact</a>
+									<a href="/contact">Contact</a>
 									<!-- <ul class="sub-menu">
 										<li class="menu-item"><a href="contacts.html">Contact Default</a></li>
 										<li class="menu-item"><a href="contacts_map.html">Contact Map</a></li>
@@ -134,9 +126,7 @@
 						<div class="started-content">
 							<div class="logo" style="background-image: url(images/man.jpg);background-size: contain;"></div>
 							<h1 class="h-title">
-								Hello, I’m <strong>Tran Ngoc Quang</strong>.</br> I can develop <strong>Mobile</strong>, <strong>Windows</strong>, <strong>Website</strong> application.<br />
-                                I have knowledge about <strong>Linux</strong>,<strong> Deployment</strong>,<strong> OS System</strong>,<strong> Database</strong>, <strong> Git</strong>...</br>
-                                Please see my resume and projects to know more
+							Hi. I'm Tran Ngoc Quang - a <strong>fullstack web developer</strong> with nearly 2 years experience.<br> Working at position fullstack developer at your company allows me to develop myself through studying and training. From that, I will definitely contribute myself to the development of the company.
 							</h1>
 							<div class="h-subtitle typing-subtitle">
 								<p>I code <strong>Windows softwares</strong></p>
@@ -165,10 +155,10 @@
 						<span class="icon fab fa-github"></span>
                     </a>
                     <!--  target="_blank" href="https://www.instagram.com/" -->
-					<a>
+					<a target="_blank" href="https://www.linkedin.com/in/tranngoc769">
 						<span class="icon fab fa-linkedin"></span>
 					</a>
-					<a target="_blank" href="https://www.facebook.com/messages/t/kingstar7699">
+					<a target="_blank" href="https://www.facebook.com/messages/t/tranngoc769">
 						<span class="icon fab fa-facebook-messenger"></span>
 					</a>
 				</div>

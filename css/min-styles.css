@@ -9575,3 +9575,10 @@ button.swiper-pagination-bullet {
 		bottom: auto;
 	}
 }
+.title-project{
+	margin: auto 0px;
+	text-align: center;
+}
+h5{
+	color:#ffffff
+}
